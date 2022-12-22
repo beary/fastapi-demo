@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.suggestSelection": "first",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.formatting.provider": "black"
+}

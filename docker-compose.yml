@@ -1,0 +1,6 @@
+services:
+  demo:
+    image: fastapi-demo
+    build: .
+    ports:
+      - 8000:8000
